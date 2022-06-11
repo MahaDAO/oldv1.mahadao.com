@@ -1,0 +1,2 @@
+(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[43],{1158:function(s,t,n){s.exports=n.p+"static/media/Ellipsis.85179754.svg"}}]);
+//# sourceMappingURL=43.eb051a0b.chunk.js.map

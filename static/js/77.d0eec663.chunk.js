@@ -1,0 +1,2 @@
+(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[77],{1192:function(t,a,n){t.exports=n.p+"static/media/Instagram.924af2b4.svg"}}]);
+//# sourceMappingURL=77.d0eec663.chunk.js.map

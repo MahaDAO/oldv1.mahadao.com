@@ -1,0 +1,2 @@
+(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[101],{1216:function(t,e,n){t.exports=n.p+"static/media/BUSDUSDC-APE-LP.8c0caeed.svg"}}]);
+//# sourceMappingURL=101.876c9e91.chunk.js.map
