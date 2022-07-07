@@ -1,2 +1,0 @@
-(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[58],{1173:function(t,n,a){t.exports=a.p+"static/media/Calendar.ed209b3c.svg"}}]);
-//# sourceMappingURL=58.2689e8b1.chunk.js.map

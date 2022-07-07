@@ -1,0 +1,2 @@
+(this["webpackJsonparth-frontend"]=this["webpackJsonparth-frontend"]||[]).push([[44],{1158:function(t,e,n){t.exports=n.p+"static/media/Firebird.2249e00b.svg"}}]);
+//# sourceMappingURL=44.b2d8e329.chunk.js.map
